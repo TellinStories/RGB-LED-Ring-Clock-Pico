@@ -1,13 +1,20 @@
-# RGB-LED-Ring-Clock-Pico
+## RGB-LED-Ring-Clock-Pico
 A simple RGB LED ring clock built with a Raspberry Pi Pico, WS2812b / NeoPixel ring, and a DS3231 real-time clock module.
 Written in MicroPython and designed as a beginner-friendly hardware project.
 Full instructions will shortly be published on Instructables
 
-# Code
+![IMG_8941](https://github.com/user-attachments/assets/5c5a4834-7761-4bd8-8c6b-71688a9696f7)
+
+## Features
+- 12-hour analogue clock display
+- Colour-coded minutes
+- Automatic hour/minute overlap handling
+- Physical daylight-saving time switch
+
+## Code
 - clock.py: The main application - a clock
 - ds3231.py: Library to interface with the DS3231 module.
 - set_time.py: A one-off utility script to set the time on the RTC module.
-
 
 ## Hardware
 - Raspberry Pi Pico
@@ -22,12 +29,6 @@ Full instructions will shortly be published on Instructables
 - Female USB-C with wires attached.
 - Access to a 3D Printer.
 - Access to a soldering iron, solder etc.
-
-## Features
-- 12-hour analogue clock display
-- Colour-coded minutes
-- Automatic hour/minute overlap handling
-- Physical daylight-saving time switch
 
 ## Licence
 MIT License
