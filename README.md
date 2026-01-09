@@ -3,6 +3,12 @@ A simple RGB LED ring clock built with a Raspberry Pi Pico, WS2812b / NeoPixel r
 Written in MicroPython and designed as a beginner-friendly hardware project.
 Full instructions will shortly be published on Instructables
 
+# Code
+clock.py: The main application - a clock
+ds3231.py: Library to interface with the DS3231 module.
+set_time.py: A one-off utility script to set the time on the RTC module.
+
+
 ## Hardware
 - Raspberry Pi Pico
 - 12-LED WS2812B / NeoPixel ring
