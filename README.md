@@ -4,6 +4,8 @@
 - Full instructions will shortly be published on Instructables: https://www.instructables.com/RGB-LED-Ring-Clock/ 
 - 3D printing files are here: https://makerworld.com/en/models/2223262-rgb-led-clock
 
+![Full Hour Edited Gif](https://github.com/user-attachments/assets/a965f29f-8423-4e92-86f6-daec365e4d42)
+
 ![IMG_8941](https://github.com/user-attachments/assets/5c5a4834-7761-4bd8-8c6b-71688a9696f7)
 
 ## Features
